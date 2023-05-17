@@ -1,4 +1,4 @@
-Hi! I'm an aspiring developer about to start WPI in the fall, and these are some of my projects!
+Hi! I'm an aspiring developer starting WPI in the fall, and these are some of my projects!
 ## Programming Languages
 - Python
 - Java
