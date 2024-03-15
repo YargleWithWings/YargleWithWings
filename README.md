@@ -8,6 +8,8 @@ Hi! I'm an aspiring developer dual majoring in Computer Science and Mathematics 
 - AppsScript
 - Verilog/VHDL
 - Racket
+- Assembly
+  
  ## Classroom Experience
  - Computer Science Fundementals
  - Introduction to Program Design
@@ -16,6 +18,7 @@ Hi! I'm an aspiring developer dual majoring in Computer Science and Mathematics 
  - Systems Programming Concepts
  - Social Implications of Information Processing
  - Computational Problem Solving
+ - Digital Electronics 
 
  ## Extracurricular Experience
  - LASA Robotics FRC Programming
