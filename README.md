@@ -18,7 +18,8 @@ Hi! I'm an aspiring developer dual majoring in Computer Science and Mathematics 
  - Systems Programming Concepts
  - Social Implications of Information Processing
  - Computational Problem Solving
- - Digital Electronics 
+ - Digital Electronics
+ - Artificial Intelligence Graduate Course
 
  ## Extracurricular Experience
  - LASA Robotics FRC Programming
